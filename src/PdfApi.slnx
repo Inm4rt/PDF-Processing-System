@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="PdfApi/PdfApi.csproj" />
+  <Project Path="PdfWorker/PdfWorker.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+@PdfWorker_HostAddress = http://localhost:5036
+
+GET {{PdfWorker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
